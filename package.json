@@ -1,0 +1,22 @@
+{
+  "name": "praktika02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "add.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vetsinen/praktika02.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vetsinen/praktika02/issues"
+  },
+  "homepage": "https://github.com/vetsinen/praktika02#readme",
+  "devDependencies": {
+    "jest": "^27.4.4"
+  }
+}
